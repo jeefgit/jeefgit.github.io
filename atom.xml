@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>崔小锋的日志</title>
+  <title>崔小锋的日志x</title>
   <id>http://www.chole.io/blog</id>
-  <updated>2017-07-30T21:49:56+08:00</updated>
+  <updated>2017-07-30T21:50:54+08:00</updated>
   <subtitle>xxxx</subtitle>
   <link href="http://www.chole.io/blog"></link>
   <author>
-    <name>崔小锋的日志</name>
+    <name>崔小锋的日志x</name>
   </author>
   <entry>
     <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
