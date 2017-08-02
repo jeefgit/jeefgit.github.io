@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>崔小锋的日志</title>
   <id>cuijf.top</id>
-  <updated>2017-07-31T06:38:33+08:00</updated>
+  <updated>2017-08-02T13:06:34+08:00</updated>
   <subtitle>崔小锋</subtitle>
   <link href="cuijf.top"></link>
   <author>
@@ -13,6 +13,16 @@
     <id>tag:,2017-07-29:cuijf.top/2017-7-29.html</id>
     <content type="html">&lt;p&gt;快五周，准备去加班周六&lt;/p&gt;&#xA;</content>
     <link href="cuijf.top/2017-7-29.html"></link>
+    <author>
+      <name>jeef_hn@163.com</name>
+    </author>
+  </entry>
+  <entry>
+    <title>2017-07-23</title>
+    <updated>2017-07-23T17:00:00+08:00</updated>
+    <id>tag:,2017-07-23:cuijf.top/2017-7-23.html</id>
+    <content type="html">&lt;p&gt;严重结果猜测，科学算法4周&lt;/p&gt;&#xA;</content>
+    <link href="cuijf.top/2017-7-23.html"></link>
     <author>
       <name>jeef_hn@163.com</name>
     </author>
