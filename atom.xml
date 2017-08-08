@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>崔小锋的日志</title>
   <id>cuijf.top</id>
-  <updated>2017-08-07T22:20:24+08:00</updated>
+  <updated>2017-08-08T22:56:30+08:00</updated>
   <subtitle>崔小锋</subtitle>
   <link href="cuijf.top"></link>
   <author>
     <name>崔小锋的日志</name>
   </author>
+  <entry>
+    <title>2017-08-08</title>
+    <updated>2017-08-08T17:00:00+08:00</updated>
+    <id>tag:,2017-08-08:cuijf.top/2017-8-8.html</id>
+    <content type="html">&lt;p&gt;来碗燕窝补一补 6周+&lt;/p&gt;&#xA;</content>
+    <link href="cuijf.top/2017-8-8.html"></link>
+    <author>
+      <name>jeef_hn@163.com</name>
+    </author>
+  </entry>
   <entry>
     <title>2017-08-07</title>
     <updated>2017-08-07T17:00:00+08:00</updated>
